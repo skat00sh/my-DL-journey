@@ -1,0 +1,1 @@
+Implementation of the paper titled -> RSDNet: Learning to Predict Remaining Surgery Duration from Laparoscopic Videos Without Manual Annotations
